@@ -1,1 +1,1 @@
-Testing GitHub sync
+Second line from GitHub app
